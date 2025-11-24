@@ -1,0 +1,31 @@
+
+> my-v0-project@0.1.0 build
+> next build
+
+  Γû▓ Next.js 14.2.33
+
+   Creating an optimized production build ...
+Failed to compile.
+
+./components/bento-grid.jsx
+Module not found: Can't resolve 'framer-motion'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./components/hero.jsx
+Module not found: Can't resolve 'framer-motion'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./components/navbar.jsx
+Module not found: Can't resolve 'framer-motion'
+
+https://nextjs.org/docs/messages/module-not-found
+
+./components/project-card.jsx
+Module not found: Can't resolve 'framer-motion'
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+> Build failed because of webpack errors
