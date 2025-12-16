@@ -7,25 +7,10 @@ import { Badge } from "@/components/ui/badge"
 export default function Portfolio() {
   const projects = [
     {
-      title: "Enterprise LINE OA Dashboard",
-      description: "A comprehensive dashboard for managing Line Official Account interactions, patient data, and marketing analytics for Thonburi Bamrungmuang Hospital.",
-      tags: ["Next.js", "Line API", "Tailwind CSS", "Recharts"],
-
-      github: "#"
-    },
-    {
-      title: "Tokyo Soteria Shop Management",
-      description: "Digital solutions for shop operations, including inventory management and branding assets for a non-profit organization in Tokyo.",
-      tags: ["Management", "Branding", "Design"],
-
-      github: "#"
-    },
-     {
-      title: "Travel Data Management System",
-      description: "Internal tool for organizing and managing travel data, streamlining operations for a tourism company.",
-      tags: ["Data Entry", "Management", "Optimization"],
-
-      github: "#"
+      title: "Burger POS & Delivery System",
+      description: "A comprehensive Point of Sale and online ordering system featuring backend architecture and DevOps automation pipelines.",
+      tags: ["Backend", "DevOps", "POS", "System Design"],
+      github: "https://github.com/mine969/A-Burgar-POS-delivery-system.git"
     }
   ]
 
