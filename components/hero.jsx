@@ -52,7 +52,7 @@ function Card3D({ children }) {
       >
         <div className="relative w-full h-full">
              <Image
-                src="/images/design-mode/channels4_profile.jpg"
+                src="/Mine-Porfolio-Website/images/design-mode/channels4_profile.jpg"
                 alt="Hein Htet Zaw"
                 fill
                 className="object-cover"
